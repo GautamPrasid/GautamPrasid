@@ -18,7 +18,6 @@ const prasid = {
   name: "Prasid Gautam",
   age: 19,
   location: "Pokhara, Nepal 🇳🇵",
-  education: "BCA @ LA GRANDEE International College (2024 - 2028)",
   role: "Aspiring Software & Frontend Developer",
   currentlyLearning: ["C/C++", "React", "Node.js", "Full-Stack Development"],
   strengths: ["Problem Solving", "Teamwork", "Adaptability", "Time Management"],
@@ -42,32 +41,6 @@ const prasid = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
----
-
-## 🎓 Education
-
-| Year | Program | Institution |
-|------|---------|-------------|
-| 2024 – 2028 | **Bachelor of Computer Application (BCA)** | LA GRANDEE International College, Pokhara |
-| 2022 – 2024 | School Leaving Certificate (SLC) | New Galaxy English Secondary School |
-| 2021 – 2022 | Secondary Education Examination (SEE) | AmarJyoti Secondary Boarding School |
-
-<details>
-<summary><b>📚 Major courses (click to expand)</b></summary>
-<br>
-
-- Programming Fundamentals (C, C++)
-- Data Structures & Algorithms
-- Database Management Systems (DBMS)
-- Operating Systems & Computer Networks
-- Software Engineering
-- Web Technology (HTML, CSS, JavaScript)
-- Object-Oriented Programming (Java/C++)
-- Mobile Application Development
-- Discrete Mathematics & Statistics
-
-</details>
 
 ---
 
